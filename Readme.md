@@ -71,7 +71,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rajaganapathy2000/Advanced-Filter-Bot)
+<a href="https://heroku.com/deploy?template=https://github.com/rajaganapathy2000/Advanced-Filter-Bot/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
